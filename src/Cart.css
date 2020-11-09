@@ -1,0 +1,12 @@
+.cart{
+    margin: 20px;
+}
+
+svg.MuiSvgIcon-root.backArrow {
+    padding: 20px;
+    border-radius: 50%;
+}
+
+@media only screen and (min-width: 600px) {
+    
+  }
